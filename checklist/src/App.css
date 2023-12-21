@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  font-size: 30px;
+}
+
+.App input {
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+}
